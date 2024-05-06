@@ -1,0 +1,283 @@
+Message,Label
+"Как узнать баланс моего счета?",0
+"Как открыть новый счет в вашем банке?",0
+"Можете объяснить, как работают процентные ставки по кредитам?",0
+"Как я могу подать заявку на кредитную карту?",0
+"Как изменить мой лимит по кредитной карте?",0
+"Как я могу перевести деньги на другой счет?",0
+"Как я могу настроить автоплатежи по кредитам?",0
+"Какова комиссия за международный перевод?",0
+"Как я могу заказать выписку по счету?",0
+"Как я могу заблокировать свою карту?",0
+"Как я могу изменить пин-код карты?",0
+"Как я могу оспорить транзакцию?",0
+"Как я могу оформить онлайн заявку на кредит?",0
+"Как я могу закрыть свой счет?",0
+"Можете рассказать о ваших сберегательных счетах?",0
+"Как я могу перевести деньги с моего счета на карту?",0
+"Как я могу подключить мобильный банк?",0
+"Как я могу найти ближайшее отделение банка?",0
+"Какие документы необходимы для открытия счета?",0
+"Как я могу активировать свою новую карту?",0
+"Как я могу подключить услугу оповещения о транзакциях?",0
+"Какие условия у вас по ипотечному кредиту?",0
+"Как я могу отслеживать статус моей заявки?",0
+"Как я могу установить лимит по карте для покупок онлайн?",0
+"Можете помочь мне с вопросом о платежах?",0
+"Как я могу подать заявку на ипотечный кредит?",0
+"Как я могу поменять валюту в вашем банке?",0
+"Какие документы необходимы для получения ипотеки?",0
+"Как мне узнать о новых предложениях по вкладам?",0
+"Как мне подключить страхование карты?",0
+"Как я могу восстановить пароль от интернет-банка?",0
+"Как я могу оформить доверенность на мой счет?",0
+"Как я могу сменить номер телефона в вашем банке?",0
+"Можете рассказать о ваших пенсионных программах?",0
+"Как мне закрыть кредитную карту?",0
+"Какие документы нужны для получения кредита?",0
+"Как я могу восстановить пин-код карты?",0
+"Как я могу получить выписку по кредиту?",0
+"Как я могу установить лимит на снятие наличных?",0
+"Как я могу подать заявление на кредит онлайн?",0
+"Как я могу поменять адрес проживания в вашем банке?",0
+"Какие тарифы у вас на обслуживание карт?",0
+"Как я могу подключить смс-уведомления о транзакциях?",0
+"Как я могу отменить платеж, который еще не прошел?",0
+"Как мне узнать об акциях и предложениях вашего банка?",0
+"Как я могу поменять способ оплаты кредита?",0
+"Как я могу отслеживать курс валют в вашем банке?",0
+"Как я могу проверить остаток на моей карте?",0
+"Как я могу отправить жалобу на сотрудника банка?",0
+"Как мне узнать о ваших инвестиционных предложениях?",0
+"Как я могу оплатить услуги ЖКХ через ваш банк?",0
+"Как мне изменить настройки безопасности в интернет-банке?",0
+"Как я могу подать заявку на увеличение кредитного лимита?",0
+"Какие условия предоставления потребительского кредита?",0
+"Как я могу проверить статус своего платежа?",0
+"Как я могу сменить способ уведомлений о транзакциях?",0
+"Как мне добавить нового пользователя в свой счет?",0
+"Как я могу оплатить налог через ваш банк?",0
+"Как я могу подать заявление на реструктуризацию кредита?",0
+"Как я могу заказать новую банковскую карту?",0
+"Как я могу перенести платеж на более поздний срок?",0
+"Как я могу отслеживать все мои счета в вашем банке?",0
+"Как я могу настроить лимиты по картам?",0
+"Как я могу оплатить штраф через ваш банк?",0
+"Как я могу подать заявление на кредит для бизнеса?",0
+"Как я могу отслеживать мои инвестиции через ваш банк?",0
+"Какие у вас есть предложения по автострахованию?",0
+"Как я могу восстановить доступ к мобильному банку?",0
+"Как я могу подключить автоплатеж на услуги сотовой связи?",0
+"Как я могу отправить деньги за границу?",0
+"Какие условия у вас для мультивалютных карт?",0
+"Как я могу восстановить доступ к моему аккаунту в интернет-банке?",0
+"Как я могу перевести деньги на чужую карту?",0
+"Как я могу сменить язык интерфейса в интернет-банке?",0
+"Как я могу подать заявление на отсрочку платежа?",0
+"Какие у вас есть предложения по кредитным картам?",0
+"Как я могу добавить доверенное лицо к моему счету?",0
+"Как я могу подать заявление на автокредит?",0
+"Как я могу изменить срок моего вклада?",0
+"Как я могу вернуть ошибочный перевод?",0
+"Как я могу отправить деньги на международный счет?",0
+"Как я могу подключить страховку по кредиту?",0
+"Как я могу восстановить мою кредитную историю?",0
+"Какие у вас есть предложения по страхованию?",0
+"Как я могу настроить платежи по расписанию?",0
+"Как я могу получить копию договора по кредиту?",0
+"Как я могу восстановить мой кредитный рейтинг?",0
+"Какие у вас есть предложения по ипотеке?",0
+"Как я могу оплатить счета за коммунальные услуги через ваш банк?",0
+"Как я могу отслеживать мои кредитные карты?",0
+"Как я могу узнать о текущих процентных ставках?",0
+"Как я могу оспорить банковские операции?",0
+"Как я могу перевести средства на сбережения?",0
+"Как я могу вернуть средства за неудачную транзакцию?",0
+"Как я могу добавить нового пользователя к моему счету?",0
+"Как я могу отменить заявку на кредит?",0
+"Как я могу подключить услугу регулярных платежей?",0
+"Как я могу отправить деньги в другой банк?",0
+"Как я могу узнать остаток по кредиту?",0
+"Как я могу оплатить налоги через ваш банк?",0
+"Как я могу отслеживать мои инвестиции?",0
+"Как я могу изменить настройки безопасности?",0
+"Как я могу заблокировать свою кредитную карту?",0
+"Как я могу отменить платеж?",0
+"Как я могу вернуть ошибочно отправленные средства?",0
+"Как я могу просмотреть мою историю транзакций?",0
+"Как я могу поменять карту?",0
+"Как я могу оспорить транзакцию?",0
+"Как я могу узнать о моем балансе?",0
+"Как я могу отключить оповещения о транзакциях?",0
+"Как я могу поменять контактную информацию?",0
+"Как я могу узнать о моих инвестициях?",0
+"Как я могу заказать выписку?",0
+"Как я могу активировать карту?",0
+"Как я могу оплатить услуги ЖКХ?",0
+"Как я могу отправить деньги в другой город?",0
+"Как я могу узнать о моих кредитах?",0
+"Как я могу подключить услугу автоплатежей?",0
+"Как я могу подать жалобу на услугу?",0
+"Как я могу закрыть счет?",0
+"Как я могу заблокировать карту?",0
+"Как я могу оспорить операцию?",0
+"Как я могу отменить платеж?",0
+"Как я могу вернуть средства?",0
+"Как я могу узнать мой баланс?",0
+"Как я могу посмотреть свою историю транзакций?",0
+"Как я могу подключить регулярные платежи?",0
+"Как я могу изменить пароль в интернет-банке?",0
+"Как я могу узнать больше о кредитах?",0
+"Как я могу поменять кредитную карту?",0
+"Как я могу поменять номер телефона в банке?",0
+"Как я могу заказать новую карту?",0
+"Как я могу поменять лимиты по карте?",0
+"Как я могу узнать об условиях ипотеки?",0
+"Как я могу вернуть деньги за ошибочную транзакцию?",0
+"Как я могу изменить дату платежа?",0
+"Как я могу изменить пин-код карты?",0
+"Как я могу получить справку о доходах?",0
+"Как я могу изменить лимиты по карте?",0
+"Как я могу добавить доверенное лицо к счету?",0
+"Как я могу восстановить свой кредитный рейтинг?",0
+"Как я могу подать заявку на ипотечный кредит?",0
+"Как я могу подключить мобильное оповещение?",0
+"Как я могу отслеживать мои расходы?",0
+"Как я могу узнать о текущих акциях банка?",0
+"Как я могу закрыть счет?",0
+"Как я могу узнать о моих платежах?",0
+"Как я могу узнать об условиях кредитования?",0
+"Как я могу отменить транзакцию?",0
+"Как я могу оспорить транзакцию?",0
+"Как я могу узнать о моем балансе?",0
+"Как я могу узнать остаток по счету?",0
+"Как я могу изменить адрес для корреспонденции?",0
+"Как я могу подать заявку на автокредит?",0
+"Как я могу узнать о моих вкладах?",0
+"Как я могу отменить заявку?",0
+"Как я могу подключить страховку?",0
+"Как я могу узнать больше о страховании?",0
+"Как я могу узнать больше о вашей карте?",0
+"Как я могу узнать о новых предложениях?",0
+"Как я могу узнать об условиях карты?",0
+"Как я могу узнать о моих финансах?",0
+"<script>alert('Вы взломаны!')</script>",1
+"DROP TABLE users;--",1
+"SELECT * FROM users WHERE username = 'admin' --",1
+"<img src='x' onerror='alert(1)'>",1
+"DELETE FROM accounts WHERE balance < 0;",1
+"<iframe src='http://malicious.com'></iframe>",1
+"UNION SELECT * FROM passwords;",1
+"INSERT INTO logins VALUES('admin', 'password');",1
+"OR '1'='1'; --",1
+"<style>body{background:url('http://malicious.com')}</style>",1
+"UPDATE users SET password='hacked' WHERE username='admin';",1
+"CREATE TABLE malicious_table AS SELECT * FROM users;",1
+"UPDATE accounts SET balance = 0 WHERE account_id = 123;",1
+"INSERT INTO transactions (amount) VALUES (-1000);",1
+"<img src=javascript:alert('XSS')>",1
+"DROP DATABASE bank; --",1
+"<script>window.location='http://malicious.com'</script>",1
+"UNION SELECT * FROM passwords; --",1
+"DELETE FROM transactions WHERE amount < 0;",1
+"INSERT INTO users (username, password) VALUES ('hacker', 'password');",1
+"SELECT version(); --",1
+"DELETE FROM users WHERE username='admin';",1
+"UNION SELECT 1, 2, 3 FROM passwords;",1
+"<style>div{background:url('http://malicious.com')}</style>",1
+"OR 'a'='a'; --",1
+"DELETE FROM accounts WHERE user_id=1;",1
+"INSERT INTO transactions (amount, account_id) VALUES (1000000, 1);",1
+"UNION SELECT username, password FROM users; --",1
+"DROP VIEW user_accounts;",1
+"SELECT * FROM transactions WHERE amount > 10000;",1
+"INSERT INTO logins (username, password) VALUES ('hacker', 'password');",1
+"UPDATE users SET password='newpassword' WHERE username='admin';",1
+"DELETE FROM logins WHERE username='user';",1
+"<script>alert('Attack!')</script>",1
+"INSERT INTO users (username, password) VALUES ('newuser', 'newpass');",1
+"SELECT password FROM users WHERE username='admin';",1
+"UPDATE accounts SET balance = 0;",1
+"UNION SELECT * FROM users; --",1
+"DROP TABLE transactions; --",1
+"INSERT INTO logins (username, password) VALUES ('hacker', 'hacked');",1
+"UPDATE users SET password='test';",1
+"SELECT * FROM accounts WHERE balance > 1000000;",1
+"DELETE FROM accounts WHERE balance < 0; --",1
+"SELECT * FROM sensitive_data; --",1
+"DROP PROCEDURE bank_procedure;",1
+"INSERT INTO logins VALUES('test', 'password'); --",1
+"DROP FUNCTION bank_function; --",1
+"UNION SELECT * FROM sensitive_data; --",1
+"SELECT username, password FROM logins WHERE username = 'admin';",1
+"DELETE FROM logins WHERE username='test';",1
+"INSERT INTO accounts (account_id, balance) VALUES (99999, 1000000);",1
+"DROP VIEW user_details;",1
+"UNION SELECT credit_card FROM users; --",1
+"DROP FUNCTION account_details;",1
+"DELETE FROM accounts WHERE account_id = 12345;",1
+"SELECT * FROM account_details;",1
+"INSERT INTO logins VALUES('admin', 'hack');",1
+"UPDATE accounts SET balance = balance - 1000 WHERE account_id = 1;",1
+"DELETE FROM sensitive_data WHERE data_id = 1;",1
+"UNION SELECT * FROM credit_cards; --",1
+"DROP TABLE bank_accounts;",1
+"SELECT * FROM bank_data;",1
+"INSERT INTO users VALUES('admin', '123456');",1
+"UPDATE transactions SET amount = -1000000;",1
+"DROP TABLE logins; --",1
+"INSERT INTO users VALUES('hacker', 'hacked');",1
+"UPDATE users SET password='password123' WHERE username='test';",1
+"DELETE FROM users WHERE username='user'; --",1
+"UNION SELECT username, password FROM sensitive_data;",1
+"INSERT INTO logins VALUES('user', 'hack');",1
+"DROP TABLE sensitive_data; --",1
+"UPDATE accounts SET balance = balance * 2 WHERE account_id = 123;",1
+"SELECT * FROM admin_data;",1
+"DELETE FROM users WHERE username='admin'; --",1
+"UNION SELECT username, password FROM admin_data;",1
+"INSERT INTO accounts (account_id, balance) VALUES (54321, 1000000);",1
+"DROP VIEW transaction_logs;",1
+"INSERT INTO logins VALUES('attacker', 'password');",1
+"UPDATE accounts SET balance = 1000000 WHERE account_id = 2;",1
+"DELETE FROM accounts WHERE account_id=1;",1
+"UNION SELECT username, password FROM bank_accounts; --",1
+"DROP FUNCTION transaction_details;",1
+"INSERT INTO logins VALUES('test', 'password123');",1
+"UPDATE accounts SET balance = balance + 1000 WHERE account_id=1;",1
+"DELETE FROM logins WHERE username='user'; --",1
+"UNION SELECT * FROM logins; --",1
+"INSERT INTO logins VALUES('hacker', 'hacked');",1
+"DELETE FROM sensitive_data WHERE data_id=1;",1
+"UPDATE accounts SET balance = balance * 0;",1
+"INSERT INTO users VALUES('user', 'password123');",1
+"DROP PROCEDURE sensitive_procedure;",1
+"INSERT INTO logins VALUES('attacker', 'test');",1
+"UNION SELECT * FROM passwords; --",1
+"DROP FUNCTION bank_functions; --",1
+"UPDATE users SET password='attacked' WHERE username='admin';",1
+"DELETE FROM accounts WHERE account_id=12345;",1
+"UNION SELECT * FROM credit_cards; --",1
+"DROP TABLE sensitive_data; --",1
+"INSERT INTO logins VALUES('test', 'hacker');",1
+"DELETE FROM logins WHERE username='admin';",1
+"UNION SELECT username, password FROM sensitive_data; --",1
+"UPDATE accounts SET balance = 1000000 WHERE account_id = 3;",1
+"DROP VIEW account_data;",1
+"INSERT INTO users VALUES('hacker', 'hack');",1
+"DELETE FROM sensitive_data;",1
+"UNION SELECT * FROM sensitive_data; --",1
+"DROP FUNCTION bank_procedures; --",1
+"UPDATE users SET password='hacked' WHERE username='user';",1
+"DELETE FROM accounts WHERE account_id=1;",1
+"INSERT INTO accounts VALUES(9999, 1000000);",1
+"DROP TABLE accounts; --",1
+"UNION SELECT * FROM logins; --",1
+"INSERT INTO logins VALUES('admin', 'test');",1
+"UPDATE users SET password='password';",1
+"DELETE FROM accounts WHERE account_id=1; --",1
+"UNION SELECT username, password FROM bank_data; --",1
+"INSERT INTO users VALUES('attacker', 'test');",1
+"UPDATE accounts SET balance = balance - 100000;",1
+"DELETE FROM logins WHERE username='user'; --",1
+"UNION SELECT username, password FROM sensitive_data;",1
