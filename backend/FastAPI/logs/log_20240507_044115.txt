@@ -1,0 +1,1 @@
+INFO - IP: 127.0.0.1, Date: 2024-05-07 04:41:15, Method: POST, Path: /log, Phone: +7 (910) 426-83-58, Message: <script>alert("xss!")</script>, Status: 200
