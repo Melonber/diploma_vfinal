@@ -1,0 +1,1 @@
+INFO - IP: 127.0.0.1, Date: 2024-05-08 23:10:14, Method: POST, Path: /log, Phone: 9104268358, Message: ывавы, Status: 200

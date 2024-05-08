@@ -1,1 +1,0 @@
-INFO - IP: 127.0.0.1, Date: 2024-05-07 04:59:49, Method: POST, Path: /log, Phone: +7 (910) 426-83-58, Message: Как удалить транзакцию ?, Status: 200

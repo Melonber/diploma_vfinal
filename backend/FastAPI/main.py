@@ -3,6 +3,8 @@ from fastapi.middleware.cors import CORSMiddleware
 import logging
 from datetime import datetime, timedelta
 import os
+import psutil
+from fastapi.responses import JSONResponse
 
 # Создание экземпляра FastAPI-приложения
 app = FastAPI()
@@ -20,7 +22,8 @@ app.add_middleware(
 active_connections = []
 request_counts = []
 time_window = 5  # Время окна в секундах для подсчета запросов
-
+request_general = 0
+anomalies = []
 
 # Функция для генерации уникальных имен файлов на основе текущей даты и времени
 def generate_log_filename():
@@ -52,7 +55,9 @@ async def log_request(request: Request):
     # Запись лог-записи в новый файл
     with open(log_filename, 'a') as file:
         file.write(log_entry + '\n')
-
+        global request_general
+        request_general+=1
+        print(request_general)
     # Отправка лог-записи всем активным WebSocket-клиентам
     await broadcast_log_entry(log_entry)
 
@@ -108,6 +113,51 @@ async def get_request_count():
 
     return {"count": count, "timestamp": timestamp}
 
+#получить количество запросов в сумме
+@app.get("/get_request_count_general")
+async def get_request_count():
+    global request_general
+    return {"count": request_general}
+
+
+@app.get("/cpu_usage")
+async def get_cpu_usage():
+    """
+    Эндпоинт, который возвращает текущую загрузку процессора вместе с текущим временем.
+    Одновременно записывает данные в новый файл в папку logs_cpu/.
+    """
+    # Получаем загрузку процессора в процентах
+    cpu_usage = psutil.cpu_percent(interval=1)
+
+    current_time = str(datetime.now().strftime('%H:%M:%S'))
+
+    current_time.replace('T',' ')
+    # Создаем запись для файла в виде строки
+    log_entry = f"{cpu_usage}, {current_time}\n"
+
+    # Указываем путь к папке logs_cpu
+    logs_folder = "/Users/aydyn/Desktop/DIPLOM_JOKES_END/backend/FastAPI/logs_cpu/cpu_data.txt"
+
+    # Открываем новый файл для записи и записываем log_entry
+    with open(logs_folder, "a") as file:
+        file.write(log_entry)
+
+    # Возвращаем данные в формате JSON
+    return {
+        "cpu_usage": cpu_usage,
+        "timestamp": current_time
+    }
+@app.post("/cpu_anomalies")
+async def receive_anomalies(request: Request):
+    data = await request.json()
+
+    anomalies.extend(data)
+
+    return JSONResponse({"message": "Anomalies received successfully."})
+@app.get("/cpu_anomalies")
+async def get_anomalies():
+    # Возвращаем текущие аномалии в JSON-формате
+    return JSONResponse(content=anomalies)
 
 # Запуск приложения
 if __name__ == "__main__":
