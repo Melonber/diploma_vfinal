@@ -1,0 +1,1 @@
+INFO - IP: 127.0.0.1, Date: 2024-05-09 19:22:50, Method: POST, Path: /log, Phone: 234234, Message: sdfsdf, Status: 200, Response Time: 0.00 сек

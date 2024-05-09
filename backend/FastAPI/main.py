@@ -36,6 +36,7 @@ def generate_log_filename():
 # Запись логов
 @app.post("/log")
 async def log_request(request: Request):
+
     data = await request.json()
     phone = data.get('phone')
     message = data.get('message')
@@ -65,7 +66,7 @@ async def log_request(request: Request):
     request_counts.append(current_time)
 
     # Возвращение ответа клиенту
-    return {"message": "Специалисты скоро свяжутся с вами."}
+    return {"message": "Спасибо за обращение ! Специалисты скоро свяжутся с вами"}
 
 
 # Отправка логов всем активным WebSocket-клиентам
@@ -110,6 +111,14 @@ async def get_request_count():
     # Подсчет количества запросов и получение текущего времени
     count = len(request_counts)
     timestamp = current_time.strftime('%Y-%m-%d %H:%M:%S')
+    timestamp_for_file = current_time.strftime('%H%M%S')
+    filename = f'./logs_req_per_sec/logs.txt'
+
+    with open(filename, 'a') as file:
+        # Форматирование временной метки для данных
+        timestamp_for_data = current_time.strftime('%Y-%m-%d %H:%M:%S')
+        # Запись данных в файл
+        file.write(f'{count}, {timestamp_for_data}\n')
 
     return {"count": count, "timestamp": timestamp}
 

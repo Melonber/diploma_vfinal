@@ -1,0 +1,1 @@
+INFO - IP: 127.0.0.1, Date: 2024-05-09 18:46:07, Method: POST, Path: /log, Phone: 9104268353, Message: Как отменить платеж ?, Status: 200

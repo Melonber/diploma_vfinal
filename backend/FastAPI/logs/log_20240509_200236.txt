@@ -1,0 +1,4 @@
+INFO - IP: 127.0.0.1, Date: 2024-05-09 20:02:36, Method: POST, Path: /log, Phone: парп, Message: парпр, Status: 200
+INFO - IP: 127.0.0.1, Date: 2024-05-09 20:02:36, Method: POST, Path: /log, Phone: парп, Message: парпр, Status: 200
+INFO - IP: 127.0.0.1, Date: 2024-05-09 20:02:36, Method: POST, Path: /log, Phone: парп, Message: парпр, Status: 200
+INFO - IP: 127.0.0.1, Date: 2024-05-09 20:02:36, Method: POST, Path: /log, Phone: парп, Message: парпр, Status: 200

@@ -1,0 +1,1 @@
+INFO - IP: 127.0.0.1, Date: 2024-05-09 19:13:50, Method: POST, Path: /log, Phone: 1234567890, Message: Test request, Status: 200

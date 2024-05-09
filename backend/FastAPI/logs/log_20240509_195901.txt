@@ -1,0 +1,1 @@
+INFO - IP: 127.0.0.1, Date: 2024-05-09 19:59:01, Method: POST, Path: /log, Phone: sdf, Message: sdf, Status: 200
