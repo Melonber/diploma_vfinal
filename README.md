@@ -1,5 +1,4 @@
-<h1>The diploma work "Development of a Stream Processing System for Evaluating Anomalies in
-the Operation of a Web Service".</h1>
+<h1>Diploma thesis: "Development of a Stream Processing System for Log Data to Assess Anomalies in Web Service Operations".</h1>
 
 <h1>Дипломная работа «Разработка системы потоковой обработки журналируемой информации для оценки аномалий в работе web-сервиса»</h1>
 
